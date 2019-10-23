@@ -1,0 +1,43 @@
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container h1{
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 55px;
+    margin-bottom: 30px;
+}
+
+.container h2{
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column; 
+}
+
+.form-container label {
+    color: white;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.form-container input {
+    width: 200px;
+}
+
+.form-container button {
+    margin-top: 20px;
+    width: 100px;
+    align-self: center;
+}

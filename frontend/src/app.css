@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+
+body, input, button {
+  font-family: 'Anton', Arial, Helvetica, sans-serif;
+}
+
+body{
+  background-image: url('https://www.lideratreinamentos.com.br/wp-content/uploads/2017/03/background-palestrantes-azul.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

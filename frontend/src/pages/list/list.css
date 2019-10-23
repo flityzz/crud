@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container h1{
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 55px;
+    margin-bottom: 30px;
+}
+
+.listUsers li{
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 20px;
+    list-style: none;
+}
+
+.email{
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+}
+
+

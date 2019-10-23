@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 800px;
+    width: 600px;
+}
+
+.container h1{
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 55px;
+    margin-bottom: 30px;
+}
+
+.container p {
+    margin-top: -10px;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+
+.data {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 0;
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 225px;
+    margin-top: 10px;
+}
+
+
+.container .options{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container .options button{
+    background: white;
+    width: 107px;
+}
+
+.get{
+    color: #483D8B;
+}
+.post{
+    color: #228B22;
+}
+
+.put{
+    color: #CD853F;
+}
+
+.delete{
+    color: 	#FF0000;
+}
+
