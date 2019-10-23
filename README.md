@@ -1,5 +1,7 @@
 # CRUD simples desenvolvido por mim
 
+TECHS: nodeJs, mongoDB e reactJs
+
 get: mostra todos os usuários cadastrados
 
 post: cadastra um usuário
