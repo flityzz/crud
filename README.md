@@ -8,4 +8,6 @@ delete: deleta um usuário
 
 put: da um update em um usuário
 
-https://user-images.githubusercontent.com/26808088/67433910-685d1480-f5bf-11e9-8b73-01766934833b.png
+
+![crud](https://user-images.githubusercontent.com/26808088/67434118-d9043100-f5bf-11e9-8441-243896ad23da.png)
+
